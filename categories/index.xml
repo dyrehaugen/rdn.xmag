@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on DYREHAUGEN</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on DYREHAUGEN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Klimapolitikk</title>
+      <link>/categories/klimapolitikk/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/klimapolitikk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privatisering</title>
+      <link>/categories/privatisering/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/privatisering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kapitalisme</title>
+      <link>/categories/kapitalisme/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/kapitalisme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klima</title>
+      <link>/categories/klima/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/klima/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oppussing</title>
+      <link>/categories/oppussing/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/oppussing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corona</title>
+      <link>/categories/corona/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/corona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kulturell identitet</title>
+      <link>/categories/kulturell-identitet/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/kulturell-identitet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forskninsgpolitikk</title>
+      <link>/categories/forskninsgpolitikk/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/forskninsgpolitikk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tilhørighet</title>
+      <link>/categories/tilh%C3%B8righet/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tilh%C3%B8righet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
